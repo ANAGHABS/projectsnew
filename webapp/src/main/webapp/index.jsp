@@ -4,6 +4,11 @@
     <p>Please fill in this form for registration!!</p>
     <hr>
     <br>  
+ 
+
+    <label for="Name"><b>Email</b></label>
+    <input type="text" placeholder="Enter Email" name="email" id="email" required>
+    <br>
 
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
