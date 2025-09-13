@@ -17,7 +17,7 @@
     <label for="psw"><b>mothername</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
-     <label for="psw"><b>newPassword</b></label>
+     <label for="psw"><b>fathername</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
 
@@ -28,7 +28,7 @@
     <br>
     <br>
 
-    <label for="psw"><b>Password</b></label>
+    <label for="psw"><b>confirmPassword</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
     <br>
